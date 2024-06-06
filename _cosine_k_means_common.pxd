@@ -1,6 +1,5 @@
 from cython cimport floating
 
-
 cdef floating _cosine_dist_dense_dense(
     const floating*,
     const floating*,

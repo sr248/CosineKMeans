@@ -1,7 +1,7 @@
-# Author: Peter Prettenhofer <peter.prettenhofer@gmail.com>
+# Original Author: Peter Prettenhofer <peter.prettenhofer@gmail.com>
 #         Olivier Grisel <olivier.grisel@ensta.org>
 #         Lars Buitinck
-#
+# Modified by: sr248 (GitHub)
 # License: BSD 3 clause
 
 import numpy as np
